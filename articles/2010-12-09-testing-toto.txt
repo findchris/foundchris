@@ -1,0 +1,10 @@
+--- 
+title: Testing toto
+date: "2010-12-09"
+
+Once upon a time...
+Very cool amigo.
+
+_MARKUP_
+
+*and down*

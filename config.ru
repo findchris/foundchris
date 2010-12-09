@@ -17,7 +17,7 @@ toto = Toto::Server.new do
   # Add your settings here
   # set [:setting], [value]
   
-  set :author,    Chris Johnson                             # blog author
+  set :author,    'Chris'                                   # blog author
   set :title,     Dir.pwd.split('/').last                   # site title
   set :url,       'http://foundchris.com'                   # site root URL
   set :prefix,    ''                                        # common path prefix for all pages
