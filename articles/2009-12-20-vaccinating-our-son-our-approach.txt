@@ -1,0 +1,34 @@
+title: "Vaccinating our son (Our approach)"
+author: Chris
+date: 2009/12/20
+slug: vaccinating-our-son-our-approach
+categories: Uncategorized
+keywords: 
+
+There's plenty of <a href="http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt" target="_blank">FUD</a> surrounding vaccinations.  I don't buy most of it, but I do try to learn as much as I can about a subject before making a decision, and vaccinating our son is no different.  
+
+I read tons of <a href="http://www.wired.com/magazine/2009/10/ff_waronscience/all/1" target="_blank">articles</a>:  Those that think that<a href="http://www.awakentothetruth.com/vaccinations.htm" target="_blank"> vaccinations are a government conspiracy</a> to control the masses, to those that suggest that not blindly accepting FDA recommendations is unpatriotic.  I also bought "<a href="http://www.amazon.com/gp/product/0316017507?ie=UTF8&tag=wwwmetamecom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316017507">The Vaccine Book</a>" by Dr. Robert Sears, a daemon of the latter camp.  Regardless, I found several of his points appealing, and so we decided to go with his recommended "alternative" vaccination schedule.  For your convenience, it is listed below, along with a spreadsheet I created to track this schedule.
+
+    * 2 months: DTaP, Rotavirus
+    * 3 months*: Pc, HIB
+    * 4 months: DTaP, Rotavirus
+    * 5 months*: Pc, HIB
+    * 6 months: DTaP, Rotavirus
+    * 7 months*: Pc, HIB
+    * 9 months: Polio (IPV)
+    * 12 months: Mumps, Polio (IPV) (See 3rd UPDATE)
+    * 15 months: Pc, HIB
+    * 18 months: DTaP, Chickenpox
+    * 2 years: Rubella, Polio (IPV) (See 3rd UPDATE)
+    * 2 1/2 years*: Hep B, Hep A (start Hep B at birth if any close relatives or caregivers have Hep B)
+    * 3 years: Hep B, Measles (See 3rd UPDATE)
+    * 3 1/2 years*: Hep B, Hep A
+    * 4 years: DTaP, Polio (IPV)
+    * 5 years: MMR
+    * 6 years: Chickenpox
+    * 12 years: Tdap, HPV
+    * 12 years, 2 months*: HPV
+    * 13 years: HPV, Meningococcal (once Meningococcal vaccine is approved for age 2, Dr. Sears will move it there and delay Hep B by 6 months)
+
+
+<iframe width='500' height='300' frameborder='0' src='http://spreadsheets.google.com/pub?key=t4HEb7iM-78TbusUWFRTshg&output=html&widget=true'></iframe>

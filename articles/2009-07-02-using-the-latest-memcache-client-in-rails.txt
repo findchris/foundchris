@@ -1,0 +1,23 @@
+title: "Using the latest memcache-client in Rails"
+author: Chris
+date: 2009/07/02
+slug: using-the-latest-memcache-client-in-rails
+categories: ProgrammingRails
+keywords: ActiveSupport, memcache-client, Programming, Rails
+
+One annoyance with ActiveSupport is waiting for the vendored libraries to get upgraded.  Recently, we wanted the latest and greatest version (1.7.4) of the memcache-client as we were experiencing some <em>interesting</em> timeout issues.
+
+Mike Perham, the memcache-client maintainer, <a href="http://www.mikeperham.com/2009/03/03/using-memcache-client-16x-in-rails-23/comment-page-1/#comment-387" target="_blank">documented how to do this</a> ("Using memcache-client 1.6.x in Rails &lt; 2.3").  His hack works great if the memcache-client gem is installed, but <strong>not</strong> if you vendor the gem.  I like to have my gems under source control, so here is a how I hacked ActiveSupport to use memcache-client 1.7.4.
+
+<script src="http://pastie.org/532713.js"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
+<script type="text/javascript"><!--
+document.observe("dom:loaded", function() {
+  $$('.pastie').each(function(p) {
+p.setStyle({overflow: 'scroll'});
+});
+});
+// --></script>
+
+Working great so far :-)

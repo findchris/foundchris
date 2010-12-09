@@ -1,0 +1,16 @@
+title: "Rails plugin mysql_replication_adapter for Rails 2.2+ "
+author: Chris
+date: 2009/02/12
+slug: rails-plugin-mysql_replication_adapter-for-rails-22
+categories: Rails
+keywords: MySQL, Programming, Rails
+
+Just a quick post to make available to <a href="http://google.com" target="_blank">the internet</a> that I've updated the mysql_replication_adapter gem/plugin to be compatible with Rails 2.2+.
+
+The original <a href="http://blog.rapleaf.com/dev/?p=5" target="_blank">mysql_replication_adapter</a> was first made available by <a href="http://www.rapleaf.com" target="_blank">RapLeaf</a>.  It was a gem that was released in mid-2007 and hosted on <a href="http://rubyforge.org" target="_blank">rubyforge</a>.  However, development stalled and when <a href="http://rubyonrails.org" target="_blank">Rails</a> when to version 2, the gem was no longer compatible.  Fortunately, in mid-2008 rubyforge user "ckiernan" patched the gem and converted it into plugin, making it compatible with Rails 2.  The patch was never committed to the main repository, so the plugin was solely available on <a href="http://rubyforge.org/tracker/index.php?func=detail&amp;aid=20068&amp;group_id=4116&amp;atid=15778" target="_blank">this rubyforge tracker page</a>.
+
+However, the plugin again became useless with the release of Rails 2.2.  The call to "require_mysql" was bombing as that method was apparently removed in Rails 2.2.  And so I fixed that and put it on <a href="http://github.com" target="_blank">github</a> for all of the Rails world to enjoy.  "Git" it here:
+
+<a href="http://github.com/findchris/mysql_replication_adapter/tree/master" target="_blank">http://github.com/findchris/mysql_replication_adapter/tree/master</a>
+
+Hope someone benefits from this.

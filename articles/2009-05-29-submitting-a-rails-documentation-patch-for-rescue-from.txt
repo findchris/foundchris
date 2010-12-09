@@ -1,0 +1,17 @@
+title: "Submitting a Rails documentation patch for rescue_from"
+author: Chris
+date: 2009/05/29
+slug: submitting-a-rails-documentation-patch-for-rescue-from
+categories: ProgrammingRails
+keywords: Rails
+
+The <a href="http://api.rubyonrails.org/classes/ActiveSupport/Rescuable/ClassMethods.html" target="_blank">existing documentation</a> for Rails' <code>rescue_from</code> is lacking in my opinion.
+
+Intuitively, I thought that the following was a simple enough setup:
+<script src="http://pastie.org/494554.js"></script>
+
+I was wrong.  My thought was that just like <code>rescue</code> blocks, the more specific instances of the <code>Exception</code> should be listed first, followed by more generic <code>Exception</code> classes (perhaps finishing with <code>StandardError</code> should you want a catch-all handler).  In fact, the exact opposite ordering is used:   The more generic <code>Exception</code> classes should be listed first, followed by more specific classes.  Listing a superclass such as <code>StandardError</code> first actually precludes other handlers from running.
+
+Thanks to<a href="http://apidock.com/rails/ActiveSupport/Rescuable/ClassMethods/rescue_from" target="_blank"> this comment</a> on ApiDock for the guidance.  I have requested access to <a href="http://github.com/lifo/docrails/tree/master" target="_blank">lifo's Rails documentation repo on github</a> so that I can commit a docpatch.  I also plan to include in the docpatch a better usage example that shows off the rescuing of multiple exception types in one declaration, like so:  <script src="http://pastie.org/494589.js"></script>
+
+Stay tuned...

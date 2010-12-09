@@ -1,0 +1,34 @@
+title: "Facebook monetization:  Dare I suggest the freemium model?"
+author: Chris
+date: 2009/02/10
+slug: facebook-monetization-dare-i-suggest-the-freemium-model
+categories: SocialMedia
+keywords: Facebook, Monetization, SocialMedia
+
+[caption id="attachment_25" align="alignleft" width="200" caption="Even your Mom is on Facebook."]<a href="http://www.foundchris.com/wp-content/uploads/2009/02/facebook_500big_200x271shkl.jpg"><img class="size-medium wp-image-25" title="facebook_500big_200x271shkl" src="http://www.foundchris.com/wp-content/uploads/2009/02/facebook_500big_200x271shkl.jpg" alt="Even your Mom is on Facebook." width="200" height="271" /></a>[/caption]
+
+Everyone and their Mom is on Facebook.  Literally.  I know that my Mom certainly is.  The point is <a href="http://news.cnet.com/8301-1023_3-9997659-93.html" target="_blank">Facebook is growing faster than MySpace</a> and soon all <a href="http://www.ibiblio.org/lunarbin/worldpop" target="_blank">6,883,817,696</a> of us will be SuperPoking each other (let's hope not).  You get the point.
+
+That viral growth of <a href="http://www.facebook.com" target="_blank">Facebook</a> is what every company would want.  But it seem that <a href="http://en.wikipedia.org/wiki/Mark_Zuckerberg">Zuckerberg</a>'s platform is <a href="http://www.techcrunch.com/2008/10/31/facebooks-growing-problem/" target="_blank">quite expensive to operate</a>, and that attempts at deriving value from that <a title="150 million active users " href="http://en.wikipedia.org/wiki/Facebook" target="_blank">huge</a> (and growing) user base haven't realized the immense potential of such a intricate ecosystem.  So what's a Web 2.0 darling to do?
+
+You've heard of the term "<a href="http://en.wikipedia.org/wiki/Freemium" target="_blank">Freemium</a>" right?  It is "a business model <a title="Business model" href="http://en.wikipedia.org/wiki/Business_model"></a>which works by offering basic services for free, while charging a premium for advanced or special features."  Facebook is currently free, so who would pay for its use?  Not me.
+
+Then who will pay to use Facebook?  Businesses.  This is not a new idea.  Most of the <a href="http://www.basecamphq.com/signup" target="_blank">product</a> <a href="http://www.backpackit.com/signup" target="_blank">offerings</a> from <a title=" " href="http://www.37signals.com/" target="_blank">37signals</a> offer a basic plan that would only be useful to individuals, charging a recurring fee for more advanced features that businesses can leverage.
+
+Why would businesses pay?  Because:  Businesses cannot afford to abstain from <a href="http://en.wikipedia.org/wiki/Social_media" target="_blank">social media</a> participation.  Witness this snippet from <a href="http://www.readwriteweb.com/" target="_blank">ReadWriteWeb</a> <a href="http://www.readwriteweb.com/archives/majority_of_social_media_users_want_businesses_attention.php" target="_blank">article</a>:
+<blockquote>"For any company that thought social media was a passing fad not worthy of their time, the numbers coming out of a recent study published by <a href="http://www.opinionresearch.com/" target="_blank">Opinion Research Corporation</a> for <a href="http://www.coneinc.com/" target="_blank">Cone</a> should come as a wake-up call.  According to that study, 85% of Americans using social media think companies should have an active presence in the social media environment. What's even more interesting is that those users actually <em>want </em>the companies to interact with them while there."</blockquote>
+Dear businesses, are you getting the message?  Dive into social media:  Consumers want you there!
+
+[caption id="attachment_26" align="alignleft" width="280" caption="Does your business belong here?"]<a href="http://www.foundchris.com/wp-content/uploads/2009/02/ping-fm-01.gif"><img class="size-medium wp-image-26" title="ping-fm-01" src="http://www.foundchris.com/wp-content/uploads/2009/02/ping-fm-01.gif" alt="Does your business belong here?" width="280" height="300" /></a>[/caption]
+
+What does this mean and how would businesses benefit?  In channels like <a href="http://facebook.com" target="_blank">Facebook</a> and <a href="http://twitter.com" target="_blank">Twitter</a>, countless conversations are constantly taking place.  Some of these conversations might involve a product that your company provides.  Why would you not want to be a part of this conversation?  There are <a href="http://twitter.com/Starbucks" target="_blank">some</a> <a href="http://twitter.com/wholefoods" target="_blank">great</a> <a href="http://twitter.com/virginamerica" target="_blank">companies</a> that have already joined the conversation on Twitter, but the same cannot be said for Facebook.  I'd argue that this deficiency is due to a lack of business tools provided by Facebook.
+
+So here's my proposal:  Charge businesses for premium Facebook profiles.  Allow an unlimited number of "friends", or perhaps charge based on "friend cap" that would be in accordance with the company's desired reach (a Mom and Pop taco stand in San Diego doesn't need to reach consumers the same way Pepsi does).  Facebook should then provide tools to make their presence valuable.  Examples include surveys/voting (read:  new ad campaign testing?), games (read:  engagement widgets), conversations (read:  user feedback and message <span class="shw">dissemination</span>), sharing of virtual products, and whatever else might evolve from there.
+
+Some might argue that Facebook is for friends and family only, and that brands have no place in such a space.  To negate that argument, just remember that we are not talking about <a href="http://myspace.com" target="_blank">MySpace</a> and its associated intrusiveness:  You and a business will only have a conversation if it is mutually-consented.  And that is the beauty of the opt-in nature of social media.
+
+What do you think?  Would such a model work for Facebook?  If you have a business, would you use something like the tools outlined in this post?
+
+As a dessert, here is another quality production from <a href="http://commoncraft.com/" target="_blank">Common Craft</a>:
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/MpIOClX1jPE&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/MpIOClX1jPE&amp;hl=en&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>

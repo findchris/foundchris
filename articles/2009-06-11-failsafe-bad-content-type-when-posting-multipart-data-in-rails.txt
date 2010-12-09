@@ -1,0 +1,27 @@
+title: "FAILSAFE \"bad content type\" when POSTing multipart data in Rails"
+author: Chris
+date: 2009/06/11
+slug: failsafe-bad-content-type-when-posting-multipart-data-in-rails
+categories: ProgrammingRails
+keywords: rails as3 actionscript multipart
+
+My coworker and I spent <strong>way</strong> too much time on this issue.
+
+The task:  Post an image from a Flash/ActionScript frontend to a Rails controller, populating an attachment_fu model.  After several attempts, we kept getting the same result:  A <code>FAILSAFE</code> error ("bad content type") called from <code>read_multipart</code>.  Here is the stack trace:
+<script src="http://pastie.org/509250.js"></script>
+
+The controller's <code>create</code> action simple populates the appropriate file field like so:
+ <code>@dog_image.uploaded_data = params[:dog_image]</code>
+
+So what was going on?  Well, the "bad content type" message was informative, but barely so.  It turns out that the multipart data being POSTed from the SWF was malformed, and Rails didn't like that.  Only one of the many ActionScript multipart libraries seems to use proper formatting, and that one is <a href="http://code.google.com/p/in-spirit/wiki/MultipartURLLoader" target="_blank">MultipartURLLoader</a>, as described in <a href="http://blog.inspirit.ru/?p=139" target="_blank">this post</a>.
+
+I had to write this post in the hopes that someone will benefit from it, as it took many hours of research to figure this out!
+
+<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
+<script type="text/javascript"><!--
+document.observe("dom:loaded", function() {
+  $$('.pastie').each(function(p) {
+p.setStyle({overflow: 'scroll'});
+});
+});
+// --></script>

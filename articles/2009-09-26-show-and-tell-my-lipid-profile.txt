@@ -1,0 +1,28 @@
+title: "Show and tell:  My lipid profile"
+author: Chris
+date: 2009/09/26
+slug: show-and-tell-my-lipid-profile
+categories: DietHealth
+keywords: Diet, Health, lipids, paleo, primal, science
+
+I've been meaning to post this for a while now, so for the sake of satisfaction and actually getting this post live, it'll be short and sweet.
+
+So I've been eating a <a href="http://www.paleodiet.com/" target="_blank">paleo</a> / <a href="http://www.marksdailyapple.com/" target="_blank">primal</a> diet since maybe June or July of 2008.  The idea is to eat the high quality, nutrient-dense food we evolved to eat, rather than the highly processed and refined stuff (most often grains and sugars) that make up so much of the modern diet (and has <a href="http://www.amazon.com/gp/product/1400033462?ie=UTF8&amp;tag=wwwmetamecom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400033462" target="_blank">arguably led to the "(degenerative) diseases of civilization"</a>:  diabetes, cancer,  heart disease, autoimmune diseases, etc.).  I am not "dieting" in the sense of weight-loss:  I am thin, weighting 165 pounds at 6'1".  I am eating this way for the health of it.
+
+<strong>How has eating a paleo diet affected my health? </strong>
+
+For one, I am hungry a lot less.  I used to eat what "conventional wisdom" told me was healthy:  whole grains, little saturated fats, little red meat, smoothies, etc.  I would often snack throughout the day on such a diet, and this isn't surprising as carbs/sugar cause an insulin spike, which make you even hungrier (not to mention that <a href="http://www.latimes.com/news/science/la-sci-sweet10nov10,0,5655697.story">sugar is more addicting than cocaine</a>!.  Now, I am rarely hungry, even when I <a href="http://www.proteinpower.com/drmike/intermittent-fasting/fast-way-to-better-health/" target="_blank">fast</a> (do this: it's good for you!).
+
+I feel higher energy, and a <a href="http://www.ehow.com/how_4537034_clear-foggy-head.html" target="_blank">clearer head</a>.
+
+Enough subjective talk; let's look at some numbers!  Below find my lipid profile:<br/>
+<iframe width='500' height='300' frameborder='0' src='http://spreadsheets.google.com/pub?key=tKBrvdLQ6PLZ9nSq48Z6dJA&output=html&widget=true'></iframe>
+<br/>
+What to note:  After eating a paleo diet for a year, my triglycerides were <strong>down</strong> 21.15%, VLDL was <strong>down</strong> 20%, and HDL was <strong>up</strong> 23.81%.  Total cholesterol and LDL were both up, but I am not at all concerned about that as both are within a healthy range, even by conventional standards.
+
+
+If you are curious about the science behind eating this way, check out Gary Taubes' "<a href="http://www.amazon.com/gp/product/1400033462?ie=UTF8&amp;tag=wwwmetamecom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400033462" target="_blank">Good Calories, Bad Calories</a>", or if you are lazy, watch this video:
+<embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=4362041487661765149&hl=en&fs=true style=width:400px;height:326px allowFullScreen=true allowScriptAccess=always type=application/x-shockwave-flash> </embed>
+
+<br/>
+I plan to update my lipid panel spreadsheet every 6 months, so stay tuned for updates.

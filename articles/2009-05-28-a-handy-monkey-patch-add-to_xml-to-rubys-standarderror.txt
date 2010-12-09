@@ -1,0 +1,16 @@
+title: "A handy monkey-patch:  Add to_xml to Ruby's StandardError"
+author: Chris
+date: 2009/05/28
+slug: a-handy-monkey-patch-add-to_xml-to-rubys-standarderror
+categories: ProgrammingRails
+keywords: 
+
+While working on some error handler refactoring in a Rails app, I added this bit of code to my application controller (application.rb):
+
+<script src="http://pastie.org/493455.js"></script>
+
+Then I found that the method StandardError#to_xml that I expected to be defined, actually was not.  So I put this into an initializer:
+
+<script src='http://pastie.org/493458.js'></script>
+
+Itch scratched!

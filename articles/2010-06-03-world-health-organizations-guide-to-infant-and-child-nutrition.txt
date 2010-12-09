@@ -1,0 +1,10 @@
+title: "World Health Organization's Guide to Infant and Child Nutrition"
+author: Chris
+date: 2010/06/03
+slug: world-health-organizations-guide-to-infant-and-child-nutrition
+categories: ChildrenFoodHealth
+keywords: Food, Health
+
+For any parents out there (or for anyone generally interested in general health recommendations for children), check out this guide from the World Health Organization:
+
+<div style="width:477px" id="__ss_4403802"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/findchris/9789241597494-eng" title="World Health Organization&#39;s Guide to Infant and Child Nutrition">World Health Organization&#39;s Guide to Infant and Child Nutrition</a></strong><object id="__sse4403802" width="477" height="510"><param name="movie" value="http://static.slidesharecdn.com/swf/doc_player.swf?doc=9789241597494eng-100603154154-phpapp02&stripped_title=9789241597494-eng" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4403802" src="http://static.slidesharecdn.com/swf/doc_player.swf?doc=9789241597494eng-100603154154-phpapp02&stripped_title=9789241597494-eng" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="477" height="510"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">documents</a> from <a href="http://www.slideshare.net/findchris">findchris</a>.</div></div>

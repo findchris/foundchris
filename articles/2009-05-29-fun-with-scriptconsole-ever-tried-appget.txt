@@ -1,0 +1,12 @@
+title: "Fun with script/console:  Ever tried app.get?"
+author: Chris
+date: 2009/05/29
+slug: fun-with-scriptconsole-ever-tried-appget
+categories: ProgrammingRails
+keywords: Rails
+
+I came across a reference to a <code>script/console</code> session that looked like this:
+
+<script src='http://pastie.org/494602.js'></script>
+
+Sweet.  I had never heard of <code>ActionController::Integration::Session</code>, but now this little gem will be a regular tool for me for testing controller requests.

@@ -1,0 +1,9 @@
+title: "A git presentation I did within our tech team"
+author: Chris
+date: 2010/01/26
+slug: a-git-presentation-i-did-within-our-tech-team
+categories: Programming
+keywords: git, subversion
+
+Everyone is on <a href="http://git-scm.com/">git</a>.  We're trying to be on git too.  So I created this brief presentation covering some high levels features of git (along with some comparisons to subversion), and thought I'd post it here.
+<div style="width:425px;text-align:left" id="__ss_3000139"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/findchris/git-tech-talk" title="Git  Tech Talk">Git  Tech Talk</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=git-techtalk-100126201651-phpapp01&stripped_title=git-tech-talk" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=git-techtalk-100126201651-phpapp01&stripped_title=git-tech-talk" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">presentations</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/findchris">findchris</a>.</div></div>
