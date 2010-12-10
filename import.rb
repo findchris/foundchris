@@ -1,4 +1,7 @@
 #!/usr/bin/ruby
+
+# alernative implementation can be found at:  https://github.com/skout23/toto-import-from-wordpress/blob/master/import.rb
+
 require 'rubygems'
 require 'fastercsv'
 require 'xmlrpc/client'

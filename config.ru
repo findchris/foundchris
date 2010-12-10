@@ -1,4 +1,3 @@
-
 require 'toto'
 
 # Rack config
@@ -12,6 +11,7 @@ end
 #
 # Create and configure a toto instance
 #
+# good config guide: http://fadeyev.net/2010/05/10/getting-started-with-toto/
 toto = Toto::Server.new do
   
   # Add your settings here
@@ -33,6 +33,15 @@ toto = Toto::Server.new do
     "<font style='font-size:300%'>oh no, something unexpected happened, and I'm embarrassed. (#{code})</font>"
   end
 
+end
+
+# Redirect www to non-www
+gem 'rack-rewrite'
+require 'rack-rewrite'
+if ENV['RACK_ENV'] == 'production'
+  use Rack::Rewrite do
+    r301 %r{.*}, 'http://foundchris.com$&', :if => Proc.new {|rack_env| rack_env['SERVER_NAME'] != 'foundchris.com'}
+  end
 end
 
 run toto
