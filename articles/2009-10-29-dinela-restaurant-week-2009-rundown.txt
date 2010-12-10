@@ -5,7 +5,7 @@ slug: dinela-restaurant-week-2009-rundown
 categories: Food
 keywords: dineLA, Food
 
-<a href="http://www.foundchris.com/wp-content/uploads/2009/10/img_1062.jpg"><img class="alignnone size-medium wp-image-77" title="Korean Short Ribs at Wolfgang Puck's &quot;Red Seven&quot;" src="http://www.foundchris.com/wp-content/uploads/2009/10/img_1062-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="/images/img_1062.jpg"><img class="alignnone size-medium wp-image-77" title="Korean Short Ribs at Wolfgang Puck's &quot;Red Seven&quot;" src="/images/img_1062.jpg" alt="" width="300" height="200" /></a>
 
 Yum.
 

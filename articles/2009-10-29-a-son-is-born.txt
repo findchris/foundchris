@@ -7,4 +7,4 @@ keywords: announcements, dylan
 
 Just wanted to announce to the world the arrival of our son: Dylan Koh Johnson.
 
-<a href="http://www.foundchris.com/wp-content/uploads/2009/10/img_1329.jpg"><img class="alignnone size-medium wp-image-82" title="Dylan" src="http://www.foundchris.com/wp-content/uploads/2009/10/img_1329-300x200.jpg" alt="" width="326" height="222" /></a>
+<a href="/images/img_1329.jpg"><img class="alignnone size-medium wp-image-82" title="Dylan" src="/images/img_1329.jpg" alt="" width="326" height="222" /></a>

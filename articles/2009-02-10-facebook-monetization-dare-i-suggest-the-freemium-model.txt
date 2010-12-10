@@ -5,7 +5,7 @@ slug: facebook-monetization-dare-i-suggest-the-freemium-model
 categories: SocialMedia
 keywords: Facebook, Monetization, SocialMedia
 
-[caption id="attachment_25" align="alignleft" width="200" caption="Even your Mom is on Facebook."]<a href="http://www.foundchris.com/wp-content/uploads/2009/02/facebook_500big_200x271shkl.jpg"><img class="size-medium wp-image-25" title="facebook_500big_200x271shkl" src="http://www.foundchris.com/wp-content/uploads/2009/02/facebook_500big_200x271shkl.jpg" alt="Even your Mom is on Facebook." width="200" height="271" /></a>[/caption]
+<a href="/images/facebook_500big_200x271shkl.jpg"><img class="size-medium wp-image-25" title="facebook_500big_200x271shkl" src="/images/facebook_500big_200x271shkl.jpg" alt="Even your Mom is on Facebook." width="200" height="271" /></a>
 
 Everyone and their Mom is on Facebook.  Literally.  I know that my Mom certainly is.  The point is <a href="http://news.cnet.com/8301-1023_3-9997659-93.html" target="_blank">Facebook is growing faster than MySpace</a> and soon all <a href="http://www.ibiblio.org/lunarbin/worldpop" target="_blank">6,883,817,696</a> of us will be SuperPoking each other (let's hope not).  You get the point.
 
@@ -19,7 +19,7 @@ Why would businesses pay?  Because:  Businesses cannot afford to abstain from 
 <blockquote>"For any company that thought social media was a passing fad not worthy of their time, the numbers coming out of a recent study published by <a href="http://www.opinionresearch.com/" target="_blank">Opinion Research Corporation</a> for <a href="http://www.coneinc.com/" target="_blank">Cone</a> should come as a wake-up call.  According to that study, 85% of Americans using social media think companies should have an active presence in the social media environment. What's even more interesting is that those users actually <em>want </em>the companies to interact with them while there."</blockquote>
 Dear businesses, are you getting the message?  Dive into social media:  Consumers want you there!
 
-[caption id="attachment_26" align="alignleft" width="280" caption="Does your business belong here?"]<a href="http://www.foundchris.com/wp-content/uploads/2009/02/ping-fm-01.gif"><img class="size-medium wp-image-26" title="ping-fm-01" src="http://www.foundchris.com/wp-content/uploads/2009/02/ping-fm-01.gif" alt="Does your business belong here?" width="280" height="300" /></a>[/caption]
+<a href="/images/ping-fm-01.gif"><img class="size-medium wp-image-26" title="ping-fm-01" src="/images/ping-fm-01.gif" alt="Does your business belong here?" width="280" height="300" /></a>
 
 What does this mean and how would businesses benefit?  In channels like <a href="http://facebook.com" target="_blank">Facebook</a> and <a href="http://twitter.com" target="_blank">Twitter</a>, countless conversations are constantly taking place.  Some of these conversations might involve a product that your company provides.  Why would you not want to be a part of this conversation?  There are <a href="http://twitter.com/Starbucks" target="_blank">some</a> <a href="http://twitter.com/wholefoods" target="_blank">great</a> <a href="http://twitter.com/virginamerica" target="_blank">companies</a> that have already joined the conversation on Twitter, but the same cannot be said for Facebook.  I'd argue that this deficiency is due to a lack of business tools provided by Facebook.
 

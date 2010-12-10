@@ -7,17 +7,17 @@ keywords: AT&amp;T, Gadgets, iPhone, Rant
 
 I've <a href="http://twitter.com/findchris/statuses/1270261551">said it once</a> (maybe more) and I'll say it again:  I love the iPhone, but I hate AT&amp;T.  Having a pocket-sized computer on me at all times has proven so valuable that I, and my wife, are willing to deal with AT&amp;T's awful mobile network.
 
-<a href="http://www.foundchris.com/wp-content/uploads/2009/03/att_iphone.jpg"><img class="alignnone size-medium wp-image-40" title="att_iphone" src="http://www.foundchris.com/wp-content/uploads/2009/03/att_iphone.jpg" alt="" width="300" height="213" /></a>
+<a href="/images/att_iphone.jpg"><img class="alignnone size-medium wp-image-40" title="att_iphone" src="/images/att_iphone.jpg" alt="" width="300" height="213" /></a>
 
 But this isn't about AT&amp;T (perhaps another post?); this is all about the iPhone.  Despite being a gift from the digital goods gods, the iPhone does have, as many <a href="http://latimesblogs.latimes.com/technology/2008/06/whats-missing-f.html" target="_blank">have</a> <a href="http://blogs.zdnet.com/Apple/?p=390" target="_blank">noted</a>, some serious shortcomings.  People say that copy and paste and turn by turn directional navigation are two features that are notably missing; I agree.  However, the features most notably missing from the iPhone are those embedded in every other mobile device on the market, from the Blackberry on down to the Kyocera you get for free with the cheapest cellular plan.
 
 This past weekend provided a great example of how noticably deficient the iPhone for basic mobile utility.  My wife's friend recently had a baby, and so snapped a baby picture on her mobile phone, and sent out a text message with the picture attached.  This is known as an <a href="http://en.wikipedia.org/wiki/Multimedia_Messaging_Service" target="_blank">MMS</a> or "Multimedia Messaging Service" message.  So the baby was cute, right?  Who knows.  We couldn't see the picture.  Instead, AT&amp;T sent us a text message that looks like this:
 
-[caption id="attachment_39" align="aligncenter" width="200" caption="When good picture messages go bad."]<a href="http://www.foundchris.com/wp-content/uploads/2009/03/iphone_msg1.jpg"><img class="size-medium wp-image-39" title="When good picture messages go bad." src="http://www.foundchris.com/wp-content/uploads/2009/03/iphone_msg1.jpg" alt="" width="200" height="300" /></a>[/caption]
+<a href="/images/iphone_msg1.jpg"><img class="size-medium wp-image-39" title="When good picture messages go bad." src="/images/iphone_msg1.jpg" alt="" width="200" height="300" /></a>
 
 Horrid, isn't it?  It wouldn't be so bad if AT&amp;T appended the "MSG ID" and "Password" values to the URL so that you could automatically click through to your message, but that is not the case.  So you go to <a href="http://www.viewmymessage.com/2" target="_blank">www.viewmymessage.com/2</a> and this is what you see:
 
-[caption id="attachment_36" align="aligncenter" width="245" caption="Worst user experience ever."]<a href="http://www.foundchris.com/wp-content/uploads/2009/03/ishot-0903211.png"><img class="size-medium wp-image-36" title="viewmymessage.com" src="http://www.foundchris.com/wp-content/uploads/2009/03/ishot-0903211.png" alt="Worst user experience ever." width="245" height="300" /></a>[/caption]
+<a href="/images/ishot-0903211.png"><img class="size-medium wp-image-36" title="viewmymessage.com" src="/images/ishot-0903211.png" alt="Worst user experience ever." width="245" height="300" /></a>
 
 Again, a terrible experience.  How am I supposed to remember the "MSG ID" and "Password" when they are strings like "y1jqtectd"?!  Despite numerous attempts at viewing the picture message, my wife and I kept entering the wrong "MSG ID" and "Password", or more likely, AT&amp;T is evil and swallowed the baby picture.  So I still haven't seen this baby picture, and it's thanks to Apple and AT&amp;T.
 

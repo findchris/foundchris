@@ -8,7 +8,7 @@ keywords: media, diet
 
 Have you noticed that media and food have a lot in common?  Comparing media to food reveals some interesting and funny analogies.
 
-[caption id="attachment_17" align="alignright" width="225" caption="An actual picture from my work kitchen"]<a href="http://www.foundchris.com/wp-content/uploads/2008/12/photo.jpg"><img class="size-medium wp-image-17" title="Snacks" src="http://www.foundchris.com/wp-content/uploads/2008/12/photo.jpg" alt="An actual picture from my work kitchen" width="225" height="300" /></a>[/caption]
+<a href="/images/photo.jpg"><img class="size-medium wp-image-17" title="Snacks" src="/images/photo.jpg" alt="An actual picture from my work kitchen" width="225" height="300" /></a>
 <h3>Funny Analogies First</h3>
 <ul>
 	<li>Discovery Channel is like Whole Foods:  A brand you can depend on to provide quality nourishment.</li>
