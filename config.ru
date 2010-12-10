@@ -18,14 +18,14 @@ toto = Toto::Server.new do
   # set [:setting], [value]
   
   set :author,    'Chris'                                   # blog author
-  set :title,     Dir.pwd.split('/').last                   # site title
+  set :title,     'FoundChris.com'                          # site title
   set :url,       'http://foundchris.com'                   # site root URL
   set :prefix,    ''                                        # common path prefix for all pages
   set :root,      "index"                                   # page to load on /
   set :date,      lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }  # date format for articles
   set :markdown,  :smart                                    # use markdown + smart-mode
-  set :disqus,    false                                     # disqus id, or false
-  set :summary,   :max => 150, :delim => /~\n/                # length of article summary and delimiter
+  set :disqus,    'foundchris'                              # disqus id, or false
+  set :summary,   :max => 150, :delim => /~\n/              # length of article summary and delimiter
   set :ext,       'txt'                                     # file extension for articles
   set :cache,      28800                                    # cache duration, in seconds (8 hours)
 

@@ -2,17 +2,29 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
+    <link rel="alternate" type="application/atom+xml" title="<%= @config[:title] %> - Feed" href="http://feeds.feedburner.com/foundchris_com" />
+    <link rel="alternate" type="application/rss+xml"  title="<%= @config[:title] %> - Feed" href="http://feeds.feedburner.com/foundchris_com" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
-    <title><%= title %></title>
+    <meta name="description" content="<%= @context[:description] || @context[:title] || 'Hello' %> on <%= @config[:title] %>" />
+    <title>
+    <% if @path == 'index' %>
+        <%= @config[:title] %>
+    <% elsif @path.split('/').compact.length == 4 %>
+        <%= title %> | <%= @config[:title] %>
+    <% else %>
+        <%= @path.capitalize.gsub(/[-]/, ' ') %> | <%= @config[:title] %>
+    <% end %>
+    </title>    
   </head>
   <body>
     <section>
       <%= yield %> 
     </section>
     <footer>
-      powered by <a href="http://cloudhead.io/toto">toto</a>
+      <a href="http://twitter.com/findchris">@findchris</a> | 
+      <a href="http://github.com/findchris">github</a> | 
+      <a href="http://feeds.feedburner.com/foundchris_com">RSS</a> |
+      thanks <a href="http://cloudhead.io/toto">toto</a>
     </footer>
   </body>
 </html>
-
