@@ -1,0 +1,5 @@
+title: "New blog platform:  Toto!  See ya WordPress..."
+date: "2010-12-10"
+
+Just a quick post (a test post of sorts) to say that I've upgraded my blog from WordPress to <a href="https://github.com/cloudhead/toto">toto</a>.<br/>
+That's right, I switched from a feature-full, massive, publishing system with huge community support and countless plugins, to a git-based, database-free, project consisting of 300 lines of code.  And I like it.  Beauty in simplicity.
