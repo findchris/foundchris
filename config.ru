@@ -41,6 +41,7 @@ require 'rack-rewrite'
 if ENV['RACK_ENV'] == 'production'
   use Rack::Rewrite do
     r301 %r{.*}, 'http://foundchris.com$&', :if => Proc.new {|rack_env| rack_env['SERVER_NAME'] != 'foundchris.com'}
+    r301 %r{/feed(.*)}, 'http://feeds.feedburner.com/foundchris_com'
   end
 end
 
